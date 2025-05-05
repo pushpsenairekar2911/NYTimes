@@ -80,3 +80,15 @@ The test case has been added in the app only to demonstarate the test cases by m
 As mentioned, testcases added only for demonstration, so the coverage of the app is only 28% overall.
 
 -----
+
+## Design Files
+
+If you want to see the deign files for this app then [click here](https://www.sketch.com/s/5f0712b7-d6ae-48a2-9b9e-ea52a7286efe)
+
+-----
+
+## Demo 
+
+If you want to see the actual working of the application then [click here.](https://drive.google.com/file/d/1Y-jkagbGjClbU70-Sp_m_3xhUzJriXrh/view?usp=sharing)
+
+-----
