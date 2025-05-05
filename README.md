@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="./assets/header.png" />
+     <img src="https://github.com/pushpsenairekar2911/NYTimes/blob/main/Assets/header.png" />
 </p>
 
 # NYTimes
@@ -10,5 +10,5 @@ This project contains the iOS app source code for the New York Times. It compris
     display: flex;
     align-items: center;
     justify-content: center;">
-   <img src="./assets/screenshots.png" />
+   <img src="[./assets/screenshots.png](https://github.com/pushpsenairekar2911/NYTimes/blob/main/Assets/screenshots.png)" />
 </div>
